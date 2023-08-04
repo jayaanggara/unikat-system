@@ -22,13 +22,13 @@
                     <a class="nav-link text-white" href="{{ route('about.index') }}">ABOUT UNIKAT</a>
                 </li>
                 <li class="nav-item px-2">
-                    <a class="nav-link text-white" href="">BOOK NOW</a>
+                    <a class="nav-link text-white" href="https://wa.me/6285960401552">BOOK NOW</a>
                 </li>
-               
+
                     <!-- Authentication Links -->
                 @guest
                     @if (Route::has('login'))
-                        <li class="nav-item px-2">
+                <li class="nav-item px-2">
                             <a class="nav-link text-white btn b-green text-white rounded-pill px-4 py-0 l-space-1" style="font-style: normal;" href="{{ route('login') }}">{{ __('SIGN UP') }}</a>
                         </li>
                     @endif
@@ -51,7 +51,7 @@
                                 @csrf
                             </form>
                         </div>
-                    </li>
+                </li>
                 @endguest
             </ul>
         </div>

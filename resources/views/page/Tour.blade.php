@@ -7,7 +7,7 @@
             <div class="row align-items-center h-100">
                 <div>
                     <div class="col-md-6">
-                        <h1 class="f-36 pb-3 fw-bold text-uppercase text-white f-md-27">e-bike tour :
+                        <h1 class="f-36 pb-3 fw-bold text-uppercase text-white f-md-27">e-bike tour :</br>
                             ride through Bali's natural beauty in a new way</h1>
                         <div>
                             <!-- Button trigger modal -->
@@ -98,23 +98,23 @@
                     <div class="col-md-7">
                         <ul class="list-program">
                             <li>
-                                <b class="f-16">flexible program</b>
+                                <b class="f-16 fst-italic">flexible program</b>
                                 <p>Choose your destinations, activities, hours and pick-up point, it's up to you.</p>
                             </li>
                             <li>
-                                <b class="f-16">personalized tour with add-ons</b>
+                                <b class="f-16 fst-italic">personalized tour with add-ons</b>
                                 <p>We offer a range of add-ons to make your e-bike tour in Bali suitable for your needs.</p>
                             </li>
                             <li>
-                                <b class="f-16">safety as a priority</b>
+                                <b class="f-16 fst-italic">safety as a priority</b>
                                 <p>Our e-bikes are maintained and our road captains are trained to ensure a safe ride.</p>
                             </li>
                             <li>
-                                <b class="f-16">fun and new experience</b>
+                                <b class="f-16 fst-italic">fun and new experience</b>
                                 <p>Our tour will take you off-the-beaten-path to discover Bali's authentic beauty.</p>
                             </li>
                             <li>
-                                <b class="f-16">Easy to Get</b>
+                                <b class="f-16 fst-italic">Easy to Get</b>
                                 <p>You can choose to pick up the bikes from our hotel partners or have them delivered.</p>
                             </li>
                         </ul>
@@ -134,9 +134,9 @@
                         <div class="slide text-white b-main-color">
                             <div class="p-4 mb-auto">
                                 <h3 class="fw-bold text-uppercase f-20">{{ $item['name'] }}</h3>
-                                <div>
+                            <div>
                                     {!! $item['description'] !!}
-                                </div>
+                    </div>
                             </div>
                             <div>
                                 <p class="fw-bold text-uppercase b-soft-black p-3 mb-0 f-16 text-center">{{ $item['price_show'] }}</p>
@@ -377,10 +377,10 @@ function addmorebuttons() {
 
                 <div class="owl-carousel owl-theme slider-tour">
                     <div class="item">
-                        <div class="border border-dark">
+                        <div class="border border-grey">
                             <div class="row align-items-center">
                                 <div class="col-md-6">
-                                    <img src="{{ asset('assets/images/list-tour/tour-slider-2.png') }}" alt="">
+                                    <img src="{{ asset('assets/images/list-tour/tour-slider-1.png') }}" alt="">
                                 </div>
                                 <div class="col-md-6">
                                     <div class="p-4">
@@ -395,10 +395,10 @@ function addmorebuttons() {
                         </div>
                     </div>
                     <div class="item">
-                        <div class="border border-dark">
+                        <div class="border border-grey">
                             <div class="row align-items-center">
                                 <div class="col-md-6">
-                                    <img src="{{ asset('assets/images/list-tour/tour-slider-3.png') }}" alt="">
+                                    <img src="{{ asset('assets/images/list-tour/tour-slider-2.png') }}" alt="">
                                 </div>
                                 <div class="col-md-6">
                                     <div class="p-4">
@@ -413,10 +413,10 @@ function addmorebuttons() {
                         </div>
                     </div>
                     <div class="item">
-                        <div class="border border-dark">
+                        <div class="border border-grey">
                             <div class="row align-items-center">
                                 <div class="col-md-6">
-                                    <img src="{{ asset('assets/images/list-tour/tour-slider-1.png') }}" alt="">
+                                    <img src="{{ asset('assets/images/list-tour/tour-slider-3.png') }}" alt="">
                                 </div>
                                 <div class="col-md-6">
                                     <div class="p-4">
@@ -454,7 +454,7 @@ function addmorebuttons() {
 
     <section>
         <div class="container py-5">
-            <div class="col-md-10 mx-auto p-4 border border-dark" style="background:#f5f5f5">
+            <div class="col-md-10 mx-auto p-4 border border-grey" style="background:#f5f5f5">
                 <div class="row">
                     <div class="col-md-6">
                         <h2 class="text-uppercase f-20 fw-bold pb-2">unikat e-bike tour </br>Terms & Conditions</h2>

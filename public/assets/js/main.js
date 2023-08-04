@@ -24,6 +24,7 @@ $('.slider-default').owlCarousel({
 $('.slider-one').owlCarousel({
     loop:false,
     nav:true,
+    animateOut: 'fadeOut',
     dots: false,
     navText: ['<img class="icon-slider" src="../assets/images/icon/left-white.png">', '<img class="icon-slider" src="../assets/images/icon/right-white.png">'],
     autoHeight: true,
@@ -55,12 +56,12 @@ $('.slider-tour').owlCarousel({
 
 
 $('.slider-fide-effect').owlCarousel({
-    loop:false,
+    loop:true,
     nav:false,
     dots: false,
     autoplay:true,
     animateOut: 'fadeOut',
-    autoplayTimeout:1000,
+    autoplayTimeout:2000,
     autoplayHoverPause:false,
     autoHeight: true,
     items:1,

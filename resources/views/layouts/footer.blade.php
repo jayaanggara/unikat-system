@@ -1,5 +1,8 @@
-  <!-- Modal -->
-  <div class="modal fade" id="register-modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<a href="https://wa.me/6285960401552" class="float" target="_blank">
+<i class="fa-brands fa-whatsapp my-float"></i>
+</a>
+<!-- Modal -->
+<div class="modal fade" id="register-modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg modal-dialog-centered">
       <div class="modal-content">
         <div class="modal-header">
@@ -68,22 +71,19 @@
         <div class="row justify-content-between pb-5">
             <div class="col-md-3">
                 <img src="{{ asset('assets/images/logo.png') }}" alt="">
-                <div class="my-4 me-3"
-                    style="padding: 10px;background: white;display: inline-block;border-radius: 50px;width: 50px;height: 50px;text-align:center">
-                    <a href="">
-                        <i class="fa-brands fa-instagram" style="font-size: 30px;color:black"></i>
+                <div class="my-4 me-3 icon">
+                    <a href="#">
+                        <i class="fa-brands fa-instagram"></i>
                     </a>
                 </div>
-                <div class="my-4 me-3"
-                    style="padding: 10px;background: white;display: inline-block;border-radius: 50px;width: 50px;height: 50px;text-align:center">
-                    <a href="">
-                        <i class="fa-brands fa-facebook-f" style="font-size: 30px;color:black"></i>
+                <div class="my-4 me-3 icon">
+                    <a href="#">
+                        <i class="fa-brands fa-facebook-f"></i>
                     </a>
                 </div>
-                <div class="my-4 me-3"
-                    style="padding: 10px;background: white;display: inline-block;border-radius: 50px;width: 50px;height: 50px;text-align:center">
-                    <a href="">
-                        <i class="fa-brands fa-tiktok" style="font-size: 30px;color:black"></i>
+                <div class="my-4 me-3 icon">
+                    <a href="#">
+                        <i class="fa-brands fa-tiktok"></i>
                     </a>
                 </div>
             </div>
@@ -113,10 +113,10 @@
                         invite you to join our newsletter.</p>
                     <form action="">
                         <input type="email"
-                            class="form-control form-control bg-transparent border-0 border-btm rounded-0"
+                            class="form-control form-control bg-transparent border-0 border-btm rounded-0 fst-italic"
                             placeholder="Your email*">
-                        <a href=""
-                            class="btn btn-light px-4 py-2 rounded-0 mt-3 fw-bold l-space-1 f-poppins border border-dark">SUBMIT</a>
+                        <a href="#"
+                            class="btn btn-light px-4 py-2 rounded-0 mt-3 fw-bold l-space-1 f-poppins border border-dark btn-hover-trans">SUBMIT</a>
                     </form>
                 </div>
             </div>

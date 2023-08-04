@@ -10,13 +10,6 @@
                         <h1 class="f-36 pb-3 fw-bold text-uppercase text-white f-md-27">partnership with unikat for a
                             sustainable and
                             better Bali</h1>
-                        <div>
-                            <a href=""
-                                class="btn b-green text-white px-4 py-2 rounded-0 mx-1 fw-bold l-space-1 f-poppins">BOOK
-                                NOW</a>
-                            <a href="" class="btn btn-light px-4 py-2 rounded-0 mx-1 fw-bold l-space-1 f-poppins">LEARN
-                                MORE</a>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -66,6 +59,9 @@
                     <div class="col">
                         <img src="{{ asset('assets/images/partner/partner-9.png') }}" alt="" class="w-100 py-3">
                     </div>
+                    <div class="col">
+                        <img src="{{ asset('assets/images/partner/partner-10.jpg') }}" alt="" class="w-100 my-3" style="border: 1px solid #cfcfcf;">
+                    </div>
                 </div>
             </div>
         </div>
@@ -103,7 +99,7 @@
                     </div>
                 </div>
                 <div class="text-center">
-                    <a href="" class="btn b-green text-white text-uppercase fw-bold rounded-0 px-4">partnership
+                    <a href="#" class="btn b-green text-white text-uppercase fw-bold rounded-0 px-4">partnership
                         enquiry</a>
                 </div>
             </div>

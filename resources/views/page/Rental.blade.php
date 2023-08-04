@@ -11,10 +11,10 @@
                             sustainably at your
                             own pace</h1>
                         <div>
-                            <a href=""
+                            <a href="https://wa.me/6285960401552"
                                 class="btn b-green text-white px-4 py-2 rounded-0 mx-1 fw-bold l-space-1 f-poppins">BOOK
                                 NOW</a>
-                            <a href="" class="btn btn-light px-4 py-2 rounded-0 mx-1 fw-bold l-space-1 f-poppins">LEARN
+                            <a href="#" class="btn btn-light px-4 py-2 rounded-0 mx-1 fw-bold l-space-1 f-poppins">LEARN
                                 MORE</a>
                         </div>
                     </div>
@@ -153,24 +153,24 @@
                     <div class="col-md-7">
                         <ul class="list-program">
                             <li>
-                                <b class="f-16">Zero Emissions and eco-friendly</b>
+                                <b class="f-16 fst-italic">Zero Emissions and eco-friendly</b>
                                 <p>Using an e-bike reduces your carbon footprint and positively impacts the environment.</p>
                             </li>
                             <li>
-                                <b class="f-16">Customer service</b>
+                                <b class="f-16 fst-italic">Customer service</b>
                                 <p>We always available to assist you with any services, maintenances or emergencies.</p>
                             </li>
                             <li>
-                                <b class="f-16">rental made easy</b>
+                                <b class="f-16 fst-italic">rental made easy</b>
                                 <p>Select your plan and get your e-bike delivered to your location, so easy!</p>
                             </li>
                             <li>
-                                <b class="f-16">convenient ride</b>
+                                <b class="f-16 fst-italic">convenient ride</b>
                                 <p>e-bike rental includes a helmet, lamp, road apps, route map, and lock. It's convenient!
                                 </p>
                             </li>
                             <li>
-                                <b class="f-16">Easy to Get</b>
+                                <b class="f-16 fst-italic">Easy to Get</b>
                                 <p>You can choose to pick up the bikes from our hotel partners or have them delivered.</p>
                             </li>
                         </ul>
@@ -188,33 +188,33 @@
                     <div class="col">
                         <div class="b-main-color text-white text-center">
                             <div class="text-uppercase fw-bold py-4 px-2 f-20">Daily</br>Plan</div>
-                            <p class="b-soft-black py-2 fw-bold f-16">28 USD or IDR 400K</p>
+                            <p class="b-soft-black py-2 fw-bold f-16 fst-italic">28 USD or IDR 400K</p>
                         </div>
                     </div>
                     <div class="col">
                         <div class="b-main-color text-white text-center">
                             <div class="text-uppercase fw-bold py-4 px-2 f-20">Weekly</br>Plan</div>
-                            <p class="b-soft-black py-2 fw-bold f-16">28 USD or IDR 400K</p>
+                            <p class="b-soft-black py-2 fw-bold f-16 fst-italic">122 USD or IDR 1.750K</p>
                         </div>
                     </div>
                     <div class="col">
                         <div class="b-main-color text-white text-center">
                             <div class="text-uppercase fw-bold py-4 px-2 f-20">Monthly</br>Plan</div>
-                            <p class="b-soft-black py-2 fw-bold f-16">28 USD or IDR 400K</p>
+                            <p class="b-soft-black py-2 fw-bold f-16 fst-italic">288 USD or IDR 4.500K</p>
                         </div>
                     </div>
                     <div class="col">
                         <div class="b-main-color text-white text-center">
                             <div class="text-uppercase fw-bold py-4 px-2 f-20">SUBSCRIPTION</br>Plan</div>
-                            <p class="b-soft-black py-2 fw-bold f-16">28 USD or IDR 400K</p>
+                            <p class="b-soft-black py-2 fw-bold f-16 fst-italic">Special Price</p>
                         </div>
                     </div>
                 </div>
                 <div class="text-center pt-4">
-                    <a href=""
+                    <a href="https://wa.me/6285960401552"
                         class="btn b-green text-white px-4 py-2 rounded-0 mx-1 fw-bold l-space-1 f-poppins">BOOK
                         NOW</a>
-                    <a href=""
+                    <a href="#"
                         class="btn btn-white px-4 py-2 rounded-0 mx-1 fw-bold l-space-1 f-poppins border border-dark">MORE
                         INFO</a>
                 </div>
@@ -225,7 +225,7 @@
     <section>
         <div class="container">
             <div class="p-b-150 p-md-b-50">
-                <div class="col-md-10 mx-auto p-4 border b-white">
+                <div class="col-md-10 mx-auto p-4 border-grey b-white">
                     <div class="row">
                         <div class="col-md-6">
                             <h2 class="text-uppercase f-20 fw-bold pb-2">UNikat e-bike rental </br> Terms & Conditions</h2>

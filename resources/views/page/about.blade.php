@@ -6,17 +6,10 @@
         <div class="container h-100">
             <div class="row align-items-center h-100">
                 <div>
-                    <div class="col-md-6">
+                    <div class="col-md-5">
                         <h1 class="f-36 pb-3 fw-bold text-uppercase text-white f-md-27">modest team with a big dream for
                             sustainability
                             and better Bali</h1>
-                        <div>
-                            <a href=""
-                                class="btn b-green text-white px-4 py-2 rounded-0 mx-1 fw-bold l-space-1 f-poppins">BOOK
-                                NOW</a>
-                            <a href="" class="btn btn-light px-4 py-2 rounded-0 mx-1 fw-bold l-space-1 f-poppins">LEARN
-                                MORE</a>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -67,7 +60,7 @@
                             <img src="{{ asset('assets/images/icon/about-1.png') }}" alt="">
                         </div>
                         <div class="col-md-11">
-                            <b class="f-16">Satisfaction Guarantee</b>
+                            <b class="f-16 fst-italic">Satisfaction Guarantee</b>
                             <p class="mb-0">We want to make sure you have the best experience possible. If you decide to
                                 cancel before you
                                 reach the 2KM mark, we'll provide a full refund with no questions asked. We value your
@@ -79,23 +72,17 @@
                             <img src="{{ asset('assets/images/icon/about-2.png') }}" alt="">
                         </div>
                         <div class="col-md-11">
-                            <b class="f-16">Satisfaction Guarantee</b>
-                            <p class="mb-0">We want to make sure you have the best experience possible. If you decide to
-                                cancel before you
-                                reach the 2KM mark, we'll provide a full refund with no questions asked. We value your
-                                satisfaction and want you to know that we're here to support you every step of the way.</p>
+                            <b class="f-16 fst-italic">Safety Equipment</b>
+                            <p class="mb-0">Our rentals include top-quality safety equipment, making your journey not only enjoyable but also secure. The facilities include Quality helmets, cycling gloves, shin guards, a CATEYE light, a lock, and a security system.</p>
                         </div>
                     </div>
-                    <div class="row align-items-center border-btm mb-4 pb-4">
+                    <div class="row align-items-center mb-4 pb-4">
                         <div class="col-md-1 pb-md-0 pb-3">
                             <img src="{{ asset('assets/images/icon/about-3.png') }}" alt="">
                         </div>
                         <div class="col-md-11">
-                            <b class="f-16">Satisfaction Guarantee</b>
-                            <p class="mb-0">We want to make sure you have the best experience possible. If you decide to
-                                cancel before you
-                                reach the 2KM mark, we'll provide a full refund with no questions asked. We value your
-                                satisfaction and want you to know that we're here to support you every step of the way.</p>
+                            <b class="f-16 fst-italic">Safety Kit</b>
+                            <p class="mb-0">UNIKAT E-Bike provide a comprehensive first aid kit with each rental, including essential first aid supplies like band-aids, antiseptic, pain relievers, and more. With our first aid kit, you can explore Bali with confidence, knowing that you're prepared for any unforeseen accidents or injuries.</p>
                         </div>
                     </div>
                 </div>
@@ -128,7 +115,7 @@
                                     style="width: 50px;">
                             </div>
                             <div class="col-md-10">
-                                <b class="f-16">electric motor</b>
+                                <b class="f-16 fst-italic">electric motor</b>
                                 <p class="mb-0">Powerful motor up to 32 km/h for high-speed transport.</p>
                             </div>
                         </div>
@@ -138,7 +125,7 @@
                                     style="width: 50px;">
                             </div>
                             <div class="col-md-10">
-                                <b class="f-16">Battery Powered</b>
+                                <b class="f-16 fst-italic">Battery Powered</b>
                                 <p class="mb-0">Powerful batteries last for around 100 kilometers.</p>
                             </div>
                         </div>
@@ -148,7 +135,7 @@
                                     style="width: 50px;">
                             </div>
                             <div class="col-md-10">
-                                <b class="f-16">comfortable Ride</b>
+                                <b class="f-16 fst-italic">comfortable Ride</b>
                                 <p class="mb-0">High-quality suspension and brakes for smooth experience.</p>
                             </div>
                         </div>
@@ -158,7 +145,7 @@
                                     style="width: 50px;">
                             </div>
                             <div class="col-md-10">
-                                <b class="f-16">Eco-Friendly</b>
+                                <b class="f-16 fst-italic">Eco-Friendly</b>
                                 <p class="mb-0">Using clean energy that offer zero emission footprint on every ride.</p>
                             </div>
                         </div>
